@@ -755,6 +755,10 @@ section {
 # Features
 -------------------------------------------------------------- */
 
+.features .row {
+  --bs-gutter-y: 1.5rem;
+}
+
 .features .icon-box {
   display: flex;
   align-items: center;
